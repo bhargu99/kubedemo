@@ -18,6 +18,6 @@ spec:
       - name: nginx
         #image: nginx:latest  # Image to deploy
         #image: nginx:1.27
-        image: nginx:1.26
+        image: nginx:1.266
         ports:
         - containerPort: 80 
